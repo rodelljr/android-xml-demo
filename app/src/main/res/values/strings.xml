@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Android XML Demo</string>
+    <string name="title_convert">Convert</string>
+    <string name="title_icecream">My List</string>
+    <string name="inches_label">inches</string>
+    <string name="cent_label">centimeters</string>
+    <string name="fah_label">fahrenheit</string>
+    <string name="cel_label">celsius</string>
+    <string name="inches_card_label">Enter a value to convert inches to centimeters</string>
+    <string name="cent_card_label">Enter a value to convert centimeters to inches</string>
+    <string name="fah_card_label">Enter a value to convert fahrenheit to celsius</string>
+    <string name="cel_card_label">Enter a value to convert celsius to fahrenheit</string>
+</resources>
